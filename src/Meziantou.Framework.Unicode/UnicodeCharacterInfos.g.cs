@@ -3,9 +3,9 @@
 // Data source: https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt
 // Binary resource: UnicodeData.bin.gz
 // Statistics:
-//   - Total characters: 297334
-//   - Emoji characters: 1537
-//   - Compressed size: 992,905 bytes (6.7% of uncompressed)
+//   - Total characters: 310341
+//   - Emoji characters: 1546
+//   - Compressed size: 1,028,596 bytes (6.6% of uncompressed)
 //   - Max character name length: 88 chars
 //
 // Specification: https://www.unicode.org/reports/tr44/
